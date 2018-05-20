@@ -20,10 +20,10 @@
 			<div id="header">
 				<div class="row">
 					<div class="col-md-6">
-						<h4>BetaLyf</h4>
+						<h4 style="font-size:30px;">BetaLyf</h4>
 					</div>
 					<div class="col-md-6" align="right">
-					<a href="{{ URL::route('login')}}" target="" style="text-transform:initial">Login</a>
+					<h4><a href="{{ URL::route('login')}}" target="" style="text-transform:initial">Login</a></h4>
 					{{-- <a href="#" target="">Sign up</a> --}}
 					</div>
 				</div>

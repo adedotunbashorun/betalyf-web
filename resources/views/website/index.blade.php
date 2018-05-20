@@ -17,8 +17,8 @@
 </div>
 <div class="panel panel-body" style="margin-top: 140px;" id="about">
 	<div class="row">
-		<div class="col-md-6" style="padding: 20px;">
-			<img src="{{ asset('images/needle111.png') }}" class="img-thumbnail" />
+		<div class="col-md-12" style="padding: 20px;">
+			<center><img src="{{ asset('images/needle11.png') }}" style="" class="img-thumbnail" /></center>
 		</div>
 		{{-- <div class="col-md-6" style="color: #BFC9CA;">
 			<h1 style="color: #EC7063;">ABOUT</h1>
